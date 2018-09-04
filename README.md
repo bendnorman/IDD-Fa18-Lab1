@@ -15,9 +15,9 @@ We've copied the questions from the lab here. Answer them below!
 
 ## Part B. Manually Blink a LED
 
-**a. What color stripes are on a 100 Ohm resistor?**
+**a. What color stripes are on a 220 Ohm resistor?**
 
-Blue, Black, Red
+Black, Black, Red, Brown
  
 **b. What do you have to do to light your LED?**
 
