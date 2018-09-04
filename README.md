@@ -10,7 +10,7 @@ We've copied the questions from the lab here. Answer them below!
 
 ## Part A. Set Up a Breadboard
 
-![alt text](https://drive.google.com/file/d/1qyk17TsXFnAsVVqu3cCpYKGoc_g9NVde/view?usp=sharing)
+![alt text](IMG_2566.JPG)
 
 
 ## Part B. Manually Blink a LED
